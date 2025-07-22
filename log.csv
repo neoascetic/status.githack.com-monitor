@@ -552,3 +552,7 @@
 2._some_flipping_website,2025-07-22 11:20,200
 1._this_website,2025-07-22 11:20,200
 4._some_nodata_website,1970-01-01 00:00,404
+1._this_website,2025-07-22 11:38,200
+4._some_nodata_website,1970-01-01 00:00,404
+2._some_flipping_website,2025-07-22 11:38,200
+3._some_broken_website,2025-07-22 11:38,500
