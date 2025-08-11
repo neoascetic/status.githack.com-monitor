@@ -4480,3 +4480,7 @@
 4._some_nodata_website,1970-01-01 00:00,404
 1._this_website,2025-08-11 11:34,200
 2._some_flipping_website,2025-08-11 11:34,500
+1._this_website,2025-08-11 11:48,200
+2._some_flipping_website,2025-08-11 11:48,500
+3._some_broken_website,2025-08-11 11:48,500
+4._some_nodata_website,1970-01-01 00:00,404
